@@ -1,5 +1,6 @@
 //Rodrigo Parra
 //legajo:122830/0
+//https://youtu.be/c7Djb2kGaMU?si=fVUG1x6tRXBKNpa_
 PImage obra;
 float escala = 1, escalaOriginal = 1;
 void setup() {
